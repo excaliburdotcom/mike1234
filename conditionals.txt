@@ -1,0 +1,14 @@
+print("Enter number1: ")
+x=int(input())
+print("Enter number2: ")
+y=int(input())
+print("Operator: ")
+op=input()
+if op=="+":
+    print(f"Sum of {x} + {y} {x+y}")
+elif op=="-":
+    print(f"Difference {x} - {y} {x-y}")
+elif op=="*":
+    print(f"Product {x} * {y} {x*y}")
+else:
+    print("Bye")
