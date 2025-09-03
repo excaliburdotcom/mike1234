@@ -1,7 +1,0 @@
-C:\docs\firstprogram\bin\Debug\firstprogram.exe.config
-C:\docs\firstprogram\bin\Debug\firstprogram.exe
-C:\docs\firstprogram\bin\Debug\firstprogram.pdb
-C:\docs\firstprogram\obj\Debug\firstprogram.csproj.AssemblyReference.cache
-C:\docs\firstprogram\obj\Debug\firstprogram.csproj.CoreCompileInputs.cache
-C:\docs\firstprogram\obj\Debug\firstprogram.exe
-C:\docs\firstprogram\obj\Debug\firstprogram.pdb
